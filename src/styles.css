@@ -2763,7 +2763,7 @@ span.date i,span.comment i {
 .box_icon .form-style textarea {
 	border-color: #E8E7E7;
 }
-.form-style-2 .form-style input:not(tpye=checkbox) {
+.form-style-2 .form-style input:not(type=checkbox) {
 	width: 100%;
 }
 .form-style-3 .form-inputs p {
@@ -2771,7 +2771,7 @@ span.date i,span.comment i {
 	margin-right: 0;
 	float: none;
 }
-.form-style-3 .form-style input:not(tpye=checkbox) {
+.form-style-3 .form-style input:not(type=checkbox) {
 	width: 100%;
 }
 .form-style-4 .form-inputs p {
