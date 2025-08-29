@@ -1,27 +1,31 @@
-# InterviewQuestionAppAngular17
+# Interview Question Answer App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0-next.0.
+A modern single-page application built with **Angular 20**, designed to help users browse and interact with common interview questions and answers. The app is clean, responsive, and easy to navigate.
 
-## Development server
+## 🚀 Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- 🧠 Displays frequently asked interview questions and answers
+- 🔍 Search functionality for quick access to relevant content
+- 📂 Organized categories for better user experience
+- 🎨 Responsive design with clean UI and white theme
 
-## Code scaffolding
+## 🛠 Tech Stack
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular 20**
+- **TypeScript**
+- **HTML5 / CSS3**
+- **Bootstrap** (or your CSS framework, if any)
 
-## Build
+## 📦 Project Setup
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Make sure you have **Node.js (v20.x)** and **Angular CLI (v20.x)** installed.
 
-## Running unit tests
+```bash
+# Install dependencies
+npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Start the app in development mode
+npm start
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# OR
+ng serve
